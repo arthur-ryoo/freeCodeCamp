@@ -6,22 +6,22 @@
 
 ## freeCodeCamp.org의 오픈소스 코드 베이스와 커리큘럼에 오신 것을 환영합니다.
 
-[freeCodeCamp.org](https://www.freeCodecamp.org)는 무료로 코드를 배울 수 있는 커뮤니티입니다. freeCodeCamp.org는 수백만 명의 사람들이 기술 쪽으로 전환하도록 돕는 것을 목표로 기부자가 지원하는 [501(c)(3)의 비영리 단체](https://donate.freecodecamp.org/)가 운영합니다. 이 커뮤니티는 이미 만 명이 넘는 사람들이 첫 번째로 개발자 직업을 가지는 것을 도왔습니다.
+[freeCodeCamp.org](https://www.freeCodecamp.org)는 무료로 코드를 배울 수 있는 커뮤니티입니다. freeCodeCamp.org는 수백만 명의 사람들이 기술 쪽으로 전환하도록 돕는 것을 목표로 기부자가 지원하는 [501(c)(3)의 비영리 단체](https://donate.freecodecamp.org/)가 운영합니다. 이 커뮤니티는 이미 만 명이 넘는 사람들이 개발자로서의 첫 걸음을 뗄 수 있도록 도왔습니다.
 
 우리의 풀스택 웹 개발 커리큘럼은 완전히 무료이고 자기주도적 학습입니다. 우리는 기술의 확장을 도와줄 수천 가지의 상호작용식의 코딩 문제가 있습니다.
 
 ## 목차
 
-* [인증](#certifications)
-* [학습 플랫폼](#the-learning-platform)
-* [버그 찾기](#found-a-bug)
-* [보안 문제 찾기](#found-a-security-issue)
-* [기여](#contributing)
-* [라이선스](#license)
+- [인증](#certifications)
+- [학습 플랫폼](#the-learning-platform)
+- [버그 찾기](#found-a-bug)
+- [보안 문제 찾기](#found-a-security-issue)
+- [기여](#contributing)
+- [라이선스](#license)
 
 ### 자격증
 
-freeCodeCamp.org는 몇 가지 무료 개발자 자격증을 제공합니다.  이러한 각 자격증에는 5가지의 필수 웹 앱 프로젝트 구축과 해당 프로젝트를 준비하는 것을 도와줄 수백 개의 선택적 코딩 과제가 포함되어 있습니다. 각각의 자격증은 초보 프로그래머에게 약 300시간이 걸릴 것으로 예상합니다.
+freeCodeCamp.org는 몇 가지 무료 개발자 자격증을 제공합니다. 이러한 각 자격증에는 5가지의 필수 웹 앱 프로젝트 구축과 해당 프로젝트를 준비하는 것을 도와줄 수백 개의 선택적 코딩 과제가 포함되어 있습니다. 각각의 자격증은 초보 프로그래머에게 약 300시간이 걸릴 것으로 예상합니다.
 
 freeCodeCamp.org 커리큘럼의 30개의 프로젝트에는 각각 휼륭한 사용자 스토리와 자동화된 테스트들이 있습니다. 이러한 기능은 프로젝트를 점진적으로 구축하고 제출하기 전 사용자의 스토리를 이행했는지 확인하는 데 도움을 줍니다.
 
@@ -60,7 +60,7 @@ freeCodeCamp.org 커리큘럼의 30개의 프로젝트에는 각각 휼륭한 �
 
   **프로젝트** : Palindrome Checker, 로마 숫자 변환기, 카이사르 암호 전화번호 검사기, 금전 등록기
 
-#### 3. Front End Libraries 자격증**
+#### 3. Front End Libraries 자격증\*\*
 
 - [Bootstrap](https://learn.freecodecamp.org/front-end-libraries/bootstrap)
 - [jQuery](https://learn.freecodecamp.org/front-end-libraries/jquery)
@@ -104,7 +104,7 @@ freeCodeCamp.org 커리큘럼의 30개의 프로젝트에는 각각 휼륭한 �
 
 #### 기존 자격증
 
-2015년도의 커리큘럼의 3가지 기존 자격증이 있으며 아직 사용할 수 있습니다. 이 자격증에 필요한 모든 프로젝트는  freeCodeCamp.org에서 계속 사용할 수 있습니다.
+2015년도의 커리큘럼의 3가지 기존 자격증이 있으며 아직 사용할 수 있습니다. 이 자격증에 필요한 모든 프로젝트는 freeCodeCamp.org에서 계속 사용할 수 있습니다.
 
 - 기존 Front End 개발 자격증
 - 기존 데이터 시각화 자격증
